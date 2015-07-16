@@ -1,0 +1,28 @@
+{
+  "name": "sand-elasticsearch",
+  "version": "1.0.0",
+  "description": "Sand.js Elastic Search Plugin",
+  "main": "lib/elasticsearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SandJS/elasticsearch.git"
+  },
+  "keywords": [
+    "Sand.js",
+    "elasticsearch"
+  ],
+  "author": "Adam Jaso <ajaso@sazze.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandJS/elasticsearch/issues"
+  },
+  "homepage": "https://github.com/SandJS/elasticsearch#readme",
+  "dependencies": {
+    "elasticsearch": "^5.0.0",
+    "lodash": "^3.10.0",
+    "sand-grain": "^1.0.0"
+  }
+}
