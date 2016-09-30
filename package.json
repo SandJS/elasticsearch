@@ -1,6 +1,6 @@
 {
   "name": "sand-elasticsearch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sand.js Elastic Search Plugin",
   "main": "lib/elasticsearch.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "dependencies": {
     "elasticsearch": "^5.0.0",
     "lodash": "^3.10.0",
-    "sand-grain": "^1.2.0"
+    "sand-grain": "^1.2.1"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.com"
