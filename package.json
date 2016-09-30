@@ -1,6 +1,6 @@
 {
   "name": "sand-elasticsearch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sand.js Elastic Search Plugin",
   "main": "lib/elasticsearch.js",
   "scripts": {
