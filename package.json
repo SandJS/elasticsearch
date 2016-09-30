@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/SandJS/elasticsearch#readme",
   "dependencies": {
-    "elasticsearch": "^5.0.0",
+    "elasticsearch": "^11.0.1",
     "lodash": "^3.10.0",
     "sand-grain": "^1.2.1"
   },
